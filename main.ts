@@ -1,4 +1,4 @@
-// gdnel gumakr@
+
 const arr = [1,2,3,[1,2],[1,[2,3,4],5],1]
 type NestedArray = (number | number[] | NestedArray)[]
 
