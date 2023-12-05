@@ -49,6 +49,3 @@ if (resultIndex) {
     console.log('-1');
 }
 
-// Грокаем алгоритмы
-
-// fibonachi rekursyaov berel gcain teski
